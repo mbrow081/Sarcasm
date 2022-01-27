@@ -1,0 +1,11 @@
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net48\Sarcasm.csproj.AssemblyReference.cache
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net48\Sarcasm.csproj.SuggestedBindingRedirects.cache
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net48\Sarcasm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net48\Sarcasm.AssemblyInfoInputs.cache
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net48\Sarcasm.AssemblyInfo.cs
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net48\Sarcasm.csproj.CoreCompileInputs.cache
+C:\Users\brownm\source\repos\Sarcasm\bin\Debug\net48\Sarcasm.exe.config
+C:\Users\brownm\source\repos\Sarcasm\bin\Debug\net48\Sarcasm.exe
+C:\Users\brownm\source\repos\Sarcasm\bin\Debug\net48\Sarcasm.pdb
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net48\Sarcasm.exe
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net48\Sarcasm.pdb

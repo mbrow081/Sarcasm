@@ -1,0 +1,15 @@
+C:\Users\brownm\source\repos\Sarcasm\bin\Debug\net6.0\Sarcasm.exe
+C:\Users\brownm\source\repos\Sarcasm\bin\Debug\net6.0\Sarcasm.deps.json
+C:\Users\brownm\source\repos\Sarcasm\bin\Debug\net6.0\Sarcasm.runtimeconfig.json
+C:\Users\brownm\source\repos\Sarcasm\bin\Debug\net6.0\Sarcasm.dll
+C:\Users\brownm\source\repos\Sarcasm\bin\Debug\net6.0\ref\Sarcasm.dll
+C:\Users\brownm\source\repos\Sarcasm\bin\Debug\net6.0\Sarcasm.pdb
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net6.0\Sarcasm.csproj.AssemblyReference.cache
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net6.0\Sarcasm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net6.0\Sarcasm.AssemblyInfoInputs.cache
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net6.0\Sarcasm.AssemblyInfo.cs
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net6.0\Sarcasm.csproj.CoreCompileInputs.cache
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net6.0\Sarcasm.dll
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net6.0\ref\Sarcasm.dll
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net6.0\Sarcasm.pdb
+C:\Users\brownm\source\repos\Sarcasm\obj\Debug\net6.0\Sarcasm.genruntimeconfig.cache
